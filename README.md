@@ -14,6 +14,3 @@ produced by nQMCC calculations.
 Planned functionality includes:
 - Energy and variance table generation
 
-## Status
-
-Under development.
